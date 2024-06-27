@@ -1,5 +1,3 @@
-
 export default async function (req, res) {
-    res.send('Hello ksun World!');
-  },
-};
+    res.status(200).send('Helldddo 000World!');
+}
