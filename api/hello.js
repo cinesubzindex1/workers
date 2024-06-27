@@ -1,3 +1,4 @@
 export default async function (req, res) {
-    res.send('Hello ksun World!');
-}
+    res.send('Hello1232 World!');
+  },
+};
