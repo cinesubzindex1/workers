@@ -1,0 +1,9 @@
+{
+  "name": "my-vercel-project",
+  "version": "1.0.0",
+  "main": "api/hello.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
